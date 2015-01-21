@@ -189,7 +189,7 @@ body {
   border: 1px dotted rgba(147, 128, 108, 0.1);
   box-sizing: border-box;
   width: 100%;
-  padding: 1em;
+  padding: .5em;
   border-radius: 5px;
   text-align: center;
 }
