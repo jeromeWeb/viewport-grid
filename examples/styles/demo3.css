@@ -193,3 +193,9 @@ body {
   border-radius: 5px;
   text-align: center;
 }
+.demo span {
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  writing-mode: lr-tb;
+}
